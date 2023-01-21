@@ -2,7 +2,7 @@
   "name": "hw-10-js",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/hw-10-js",
+  "homepage": "https://goitacademy.github.io/hw-10-js.git",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /hw-10-js/"
@@ -15,7 +15,7 @@
   "author": "Roman Nechaev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/hw-10-js/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
